@@ -1,0 +1,16 @@
+{
+  "name": "mObywatel ID",
+  "short_name": "mID",
+  "start_url": "id.html",
+  "display": "standalone",
+  "background_color": "#024A94",
+  "theme_color": "#024A94",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://play-lh.googleusercontent.com/_TNbiYKasPy_isTSEg2_UEzVaev4F8fO2lLunsHJ8_Ux2g3OzkSZyzpqvJG1woSj-WD4",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
